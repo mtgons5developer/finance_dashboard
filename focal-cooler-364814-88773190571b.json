@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "focal-cooler-364814",
+  "private_key_id": "88773190571b185addd6c40a1a6d63639ac0567b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDZ7fCPQ/32ofBO\nXWObIuvIgF2pPnV2XV2vbZb7JgoHH36ehx9ANU9RuxT3JBSwrSeOq2BtWLajoPTG\nlJ4hv4NFXoLvUz76FJKVnR+aDo2lZrDIRAf+LI+FBTDheA0chgtat1N/kljPJTMA\nPJAGD87uO+tVcTELsVY68F9pqPGYMOAUpTxtKWU5jbko5If7aOE5+uN3Ty0h28Ss\nZ83eD+0iGfWmbt8FEkOApPkq2gvbU7qsM+ig0BM3W8OcX6BbMSO0X52nKIWcp4g0\nTzgnfkM+6imGQL9uNONWpCV8nD9XnZ1bn5GRSZ29WXVQmUIzz91QDQwwyAuR1OSo\n7p/1+5ztAgMBAAECggEAAtV/iplngNDPy3EW9cJBPzD+JtCHXgPuTzT1YOw4dqm/\n74dRznezAZzVc7ZOJ5ME3+vWG+3qqBuUe02c9dLj/d+yA7M5Ly7bziLGMa5tRKCe\nfWg3E2TYc/IildgGEaAjnykhppfMXFs/O8pN1CpZ9kqkr46ChQSoGqmcEAdwpto7\nthSJ0nVuSLbHpyOmeTGzpfH5JQnx7cA5fOVDUVke6sRt4JO/Iq/uS25HUkpw7Pag\n5AHCdzRAkboZAprUbP7mamQmVtwywP93CEvMdo5ZatpCanpqFLnR/B3jce1U0zQ5\n/+bFriKS8/AXjrr2uMVkZglxvw5cKKVQwC1P5llFOQKBgQD01Mg53y0auH5cO8Io\nsn4qA2nda6O0+ciNqHMUCx+d+Xl0CQm+13V6hVb89wp2I1LIvyN5OIOEhXvbExhl\nmnuZWPckV+i8iYjY4MGHuFoCVDhrLX3kPO0BSH2Uq+O2R4tKWSRrcqOPCnDq8srW\nTRGhe6BWJrAnHjCQCirWBNJ99QKBgQDj3v2OO5rlAcEUG61qOGsZ2CKbQaLrEZNU\nt5Vw33+C7tmJDB+ZQHECi9dVeEtG5bhyX51SgbDgtIcmR2SB66QR5EmKWm1VhOYN\nywF7wsdxl8+gPLn6Ki0pMIHc8TqszCt+wHc4K6ONiAPzoNwtpuC6AuF5b/c8iW1k\nUT9faJYQGQKBgCxBAegkBP0deAmn65J7oP5rG4mgWTjvJWclmZd340EkxOVKdO5/\n94Yr7+tNpCByhhYvJnRU2MDtd9PDgddrswem4xU4pqLdoVTCW3jyw6JEIuaMlILa\n2GQw/DIRV9ms2OqZblHVqObEFmEBfdR6ncM4m2S3HYQUmuaOT+vbd0i5AoGAHOWv\nc/UdHIOPb7Re1oSXGGzvXo8BURwmeezaF7lQG1Oc5KNT8oRYkIEZaq5ZpYEGVgLI\nGal2u9hI91LAbTVr1hUEOnZjPSAgaIlhA8fcsQwWeXSaBR6KIZoULeetkDJIJcfU\nlpv6Hr2r+p5gra1m/E/XNiY7zUKES9990OSbeykCgYEAspJF8EvL5mIX5ttsZ1he\nq9GaPsyP5zVcFejCJIs2OemINvo8GEYeYEdq6SDzXELtugF2fPCbwIoeyZZyWkCN\nebLDnPCP+YZE2vDy6cCUJbt9TYeCVMqkYm32BWTxC8THPIr4IMJI1akaKxDs9yrQ\nAud5xS4SUkObJ04bdYRg59U=\n-----END PRIVATE KEY-----\n",
+  "client_email": "finance-bot@focal-cooler-364814.iam.gserviceaccount.com",
+  "client_id": "107805307804368156999",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/finance-bot%40focal-cooler-364814.iam.gserviceaccount.com"
+}

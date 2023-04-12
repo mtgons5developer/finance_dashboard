@@ -1,0 +1,25 @@
+Reuters
+
+[Balance Sheet]
+[N , D37] Cash + Cash & Equivalents 
+[J , D33] Common Stock, Total
+[K , D34] Total Debt
+[B , D25] Total Common Shares Outstanding
+
+[Income statement]
+[L , D35] Diluted Normalized EPS
+[P , D39] Diluted EPS Excluding ExtraOrd Items
+[R , D41] Basic EPS
+[M , D36] EBITDA
+[Q , D40] Diluted EPS Excluding ExtraOrd Items [Previous year]
+
+[Cash flow]
+[O , D38] Cash from Operating Activities
+[E , D28] Capital Expenditures
+[D , D27] Total Cash Dividends Paid
+[I , D32] Cash Taxes Paid
+[H , D31] Cash Interest Paid
+
+[C , D26] average close
+[S , D42] Beta
+

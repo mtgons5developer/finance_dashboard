@@ -1,0 +1,22 @@
+WSJ
+
+[Balance Sheet]
+[J , D33] Common Stocks
+[K , D34] Total Debt
+[B , D25] ordinary shares number
+
+[Income statement]
+[L , D35] Basic EPS
+[P , D39] EPS diluted
+[R , D41] Basic Shares Outstanding
+[Q , D40] Basic EPS [Previous year]
+
+[Cash flow]
+[O , D38] Net Operating Cash Flow
+[E , D28] Capital Expenditures
+[D , D27] Cash Dividends Paid - Total
+[F , D30] Sales of Fixed Assets & Businesses
+
+[C , D26] average close
+[S , D42] Beta
+

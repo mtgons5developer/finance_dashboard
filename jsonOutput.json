@@ -1,0 +1,1750 @@
+{
+    "elements": [
+        {
+            "type": "element",
+            "name": "rss",
+            "elements": [
+                {
+                    "type": "element",
+                    "name": "channel",
+                    "elements": [
+                        {
+                            "type": "element",
+                            "name": "title",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Morning Star"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "link",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "https://renman.typepad.com/msc/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "description",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "the church at Killbuck"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "language",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "en-US"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "lastBuildDate",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Thu, 08 Jun 2006 01:30:03 -0400"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "generator",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "http://www.typepad.com/"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "itunes:summary",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Weekly sermon podcast of Morning Star Church, Anderson, Indiana, USA"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "itunes:author",
+                            "elements": [
+                                {
+                                    "type": "text",
+                                    "text": "Morning Star Ministries"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "itunes:image"
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Six Months to Victory"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/06/six_months_to_v.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/06/six_months_to_v.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ray Renner challenges us: Download six_months_to_victory.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Ray Renner challenges us:<br /><a href=\"http://renman.typepad.com/msc/files/six_months_to_victory.MP3\">Download six_months_to_victory.MP3</a>\n</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Thu, 08 Jun 2006 01:30:03 -0400"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Mallard Lake Landfill"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/05/mallard_lake_la.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/05/mallard_lake_la.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "This past Monday evening Carol and I were apart of a demonstration of solidarity with the kids from Killbuck Elementary School in their opposition to the proposed Mallard Lake Landfill. This dump will be located right across the street from..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dscn0711.jpg\"><img title=\"Dscn0711\" height=\"75\" alt=\"Dscn0711\" src=\"https://renman.typepad.com/msc/images/dscn0711.jpg\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> This past Monday evening Carol and I were apart of a demonstration of solidarity with the kids from Killbuck Elementary School in their opposition to the proposed Mallard Lake Landfill. This dump will be located right across the street from the school if it is ever allowed to become operational. </p>\n\n<p>I know that trash will have to be taken somewhere as long as we are a &quot;throw away&quot; society but it seems to me that across the street from an elementary school is one of the least desirable of all possible locations. It's not too late to vote your opposition to the dump in the <a href=\"http://www.heraldbulletin.com/\">Herald Bulletin's</a> on line poll. Just scroll down to the bottom of the first page and make your views known.</p>\n\n<p>The kids at the school presented the KCCA (Killbuck Concerned Citizen's Assn.) with a check to help with the legal fight against the dump.&nbsp; <a onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dscn0716.jpg\"><img title=\"Dscn0716\" height=\"75\" alt=\"Dscn0716\" src=\"https://renman.typepad.com/msc/images/dscn0716.jpg\" width=\"100\" border=\"0\" style=\"FLOAT: right; MARGIN: 0px 0px 5px 5px\" /></a>Let's support the kids and the Anderson Community School Board in their opposition to the dump.</p>\n\n<p>Blessings,</p>\n\n<p>Ray</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fri, 26 May 2006 16:19:51 -0400"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Picture from Iraq"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/05/picture_from_ir.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/05/picture_from_ir.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "I just talked with Randy for about 15 minutes on my computer directly from Iraq. This is the second time I've talked to him in about a week. Do you know about a program called Skype? It's a small downloadable..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc01271.jpg\"><img title=\"Dsc01271\" height=\"75\" alt=\"Dsc01271\" src=\"https://renman.typepad.com/msc/images/dsc01271.jpg\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> I just talked with Randy for about 15 minutes on my computer directly from Iraq. This is the second time I've talked to him in about a week. Do you know about a program called <a href=\"http://www.skype.com/\">Skype</a>? It's a small downloadable program that is totally free. It will enable you to talk for free to anyone in the world who has the same program installed on their computer. You will need to buy a relatively inexpensive headset (I paid about $30 for one at Office Depot).&nbsp; Randy is doing fine and is looking forward to coming home for a break pretty soon. This is a picture of him with the remains of an exploded ordinance. Please keep him in your prayers.</p>\n\n<p>Ray</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fri, 19 May 2006 14:04:54 -0400"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Grand Junction, Aspen, Vail & Estes Park"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/grand_junction_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/grand_junction_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "On day 4 of our journey we traveled from Grand Junction, Co. to Estes Park. After searching on the web a bit I discovered that the city was named Grand Junction because it sits at the confluence of the Gunnison..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05265.JPG\"><img title=\"Dsc05265\" height=\"75\" alt=\"Dsc05265\" src=\"https://renman.typepad.com/msc/images/dsc05265.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> On day 4 of our journey we traveled from <a href=\"http://www.visitgrandjunction.com/\">Grand Junction, Co</a>. to Estes Park. After searching on the web a bit I discovered that the city was named Grand Junction because it sits at the confluence of the Gunnison and Colorado rivers. This is Colorado wine country and mesa country at it's best. The Colorado National Monument is 23,000 acres of rock formations, arches, windows, canyons and exposed layers of earth, most of which we didn't get to see as we had a long way to go this day. Shortly after leaving GJ, traveling I 70 east through the mountains, we drove through beautiful canyons following the course of the Colorado River. This is big and majestic country. There's definitely more to see here than we got to see.</p>\n\n<p>Several of the more famous ski resorts in Colorado lie not too far from I 70 as it makes it's way from Grand Junction in the west to Denver in the east. We stopped briefly at two of them. The first was Aspen, definitely home to the &quot;beautiful people&quot;. Carol and I felt a bit out of place to say the least as we mingled with the skiing crowd at the foot of Aspen Mountain Ski Resort long enough for me to drink a cup of Starbuck's coffee and to take a few pictures, most of which didn't come out due to a malfunction of my camera (GRRR!) It was a beautiful sunny day and the ski hills looked spectacular.<a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05269.JPG\"><img title=\"Dsc05269\" height=\"75\" alt=\"Dsc05269\" src=\"https://renman.typepad.com/msc/images/dsc05269.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: right; MARGIN: 0px 0px 5px 5px\" /></a> Aspen was also the home for much of his life of John Denver, famed folk/country singer/songwriter. The resort had a &quot;John Denver&quot; feel to me.</p>\n\n<p>After leaving Aspen we continued on to Vail, located right next to the interstate. Vail was the favorite ski area of President Gerald Ford and he has an amphitheater named after him here. After a brief drive through we continued eastward on I 70 and crossed the Continental divide through a long tunnel before leaving the relative ease of interstate driving and once again following a snow plow over snow covered mountain passes on Colorado back roads ending our journey on day 4 at <a href=\"http://www.estes-park.com/\">Estes Park</a> right next door to <a href=\"http://www.nps.gov/romo/\">Rocky Mountain National Park</a>.&nbsp; </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fri, 31 Mar 2006 14:38:33 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Mesa Verde, Snow & Ouray"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/mesa_verde_snow.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/mesa_verde_snow.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "On Saturday Carol and I got up reasonably early, ate breakfast, and headed out to Mesa Verde. After driving about 30 miles or so we saw directly in front of us a very large mesa with a huge rock outcropping..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05216.JPG\"></a><a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05229.JPG\"><img title=\"Dsc05229\" height=\"75\" alt=\"Dsc05229\" src=\"https://renman.typepad.com/msc/images/dsc05229.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a>&nbsp; On Saturday Carol and I got up reasonably early, ate breakfast, and headed out to Mesa Verde. After driving about 30 miles or so we saw directly in front of us a very large mesa with a huge rock outcropping on top of it. The mesa was several thousand feet higher in elevation than the road on which we were traveling and we were heading straight for it. Sure enough, in a few minutes we arrived at the gate to <a href=\"http://www.nps.gov/meve/home.htm\">Mesa Verde National Park.</a> I am so grateful that our nation has preserved for us some of the most wonderful places as those contained in our national parks. After entering the gate we drove to the top of the mesa on a narrow and winding but beautiful and scenic road. It was another 25 miles through the park to get to the museum and the &quot;Spruce Tree House&quot;, the only ruins open to the public at this time of the year. Mesa Verde contains the archaeological remains of the &quot;Cliff Dwelling&quot; Indians. They built many communities here in the park under rock overhangs as well as others on the relatively flat mesa top. They are a wonder to behold. <a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05216_1.JPG\"><img title=\"Dsc05216_1\" height=\"75\" alt=\"Dsc05216_1\" src=\"https://renman.typepad.com/msc/images/dsc05216_1.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: right; MARGIN: 0px 0px 5px 5px\" /></a> After a short visit we retraced our steps back to Durango and headed out for our day's journey through the mountains of Western Colorado. Little did we realize the adventure that lay ahead of us. </p>\n\n<p>Soon after leaving Durango we began a steady climb toward a mountain pass and it began to snow. Soon we came upon a sign that warned that all commercial vehicles were required to have chains to continue further. Since we were not a commercial vehicle this did not apply to us. We were grateful however that we had rented a four wheel drive Chevy Trailblazer because the snow began to stick to the road and soon it was covered and began to deepen. There were not many vehicles on the road and the conditions were worsening by the mile. We were traveling on a fairly narrow paved road that was winding it's way toward a mountain pass of over 10,000 feet. There were steep drop offs on first one side and then the other of the road. The road was slick and getting slicker as the snow continued to pile up. And then a miracle happened! We caught up to a snow plow clearing the road just ahead of us and so we settled in behind it for the long slow ride over the mountain. It was a huge blessing, one that would be repeated again the next day as we traveled over another mountain pass.<a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05233.JPG\"><img title=\"Dsc05233\" height=\"75\" alt=\"Dsc05233\" src=\"https://renman.typepad.com/msc/images/dsc05233.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: right; MARGIN: 0px 0px 5px 5px\" /></a>&nbsp; </p>\n\n<p>At one point we came upon a section of the road with a sheer drop off for at least 1000 feet right next to the road with no guard rail of any kind. Fortunately for us we were on the side of the road that was against the mountain though the entire road was slick and wet. Soon we arrived at Ouray (Youray), a beautiful town in a mountain valley that bills itself as the <a href=\"http://www.ouraycolorado.com/\">&quot;Switzerland of America&quot;</a>. I'm not sure I'd go that far but it was beautiful. We stopped for lunch and a short walk through town, glad to be walking and no longer driving in the snow. As a matter of fact our driving in the snow was over for the day as we continued our journey out of the mountains and across wide open country to Grand Junction Co. where we spent the night. As if to put a period on our day the Lord gave us a beautiful double rainbow as we were driving into town.<a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05261.JPG\"><img title=\"Dsc05261\" height=\"75\" alt=\"Dsc05261\" src=\"https://renman.typepad.com/msc/images/dsc05261.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tue, 28 Mar 2006 10:21:52 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Continuing the Journey..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/continuing_the_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/continuing_the_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "On day two of our trip we arose early and headed in the general direction of Durango, CO, our destination for the evening. There was much to see in the Colorado Springs area that we just didn't have time for..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05188.JPG\"><img title=\"Dsc05188\" height=\"75\" alt=\"Dsc05188\" src=\"https://renman.typepad.com/msc/images/dsc05188.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> On day two of our trip we arose early and headed in the general direction of Durango, CO, our destination for the evening. There was much to see in the Colorado Springs area that we just didn't have time for like the Air Force Academy, the US Olympic Training Center and the headquarters for several Christian ministries such as Focus on the Family, The Navigators, The World Prayer Center and New Life Church among others. They'll have to wait for another day and another trip. About an hour's drive from Colorado Springs is Canyon City and the Royal Gorge. We stopped long enough to take a walk on the bridge and look down at the train tracks and the Arkansas River more than 1000 feet below. It was gorgeous (sorry about that)! We also took a short (3 mile drive) along &quot;skyline drive&quot;. It was the highlight of Carol's trip (not), a narrow paved road along the top of a ridge line with steep drop offs on both sides of the road. Along the one way drive we came upon a bike rider who had to get over to the side to let us pass. As he allowed us to pass he pedaled off the pavement onto the shoulder and couldn't have been more than 1 or 2 feet from the very edge of a sheer drop that went for at least 1000 feet. Carol was terrified and I must admit I was a little nervous myself. I had to repent of having taken us on such a precarious drive. Looking back though I'd have to say it was fun though it did scare the living daylights out of us!</p>\n\n<p>Most of the rest of the day we spent driving south of the largest Colorado mountains with beautiful mesas and mountain tops all around us.<a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05209_1.JPG\"><img title=\"Dsc05209_1\" height=\"75\" alt=\"Dsc05209_1\" src=\"https://renman.typepad.com/msc/images/dsc05209_1.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: right; MARGIN: 0px 0px 5px 5px\" /></a> We had hoped to get to Durango in time to take a side trip to Mesa Verde National Park before evening but we arrived just at closing time and so we decided to get up early the next day and go see it before we left the Durango area. More on that in my next post.&nbsp; &nbsp;&nbsp; </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sat, 25 Mar 2006 13:36:47 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Another Garden Far, Far, Away"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/another_garden_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/another_garden_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Carol and I just recently returned from a whirlwind tour of Colorado. Neither one of us had seen Colorado before and so it was with much anticipation that we set out last Thursday to see as much of the state..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05163.JPG\"><img title=\"Dsc05163\" height=\"75\" alt=\"Dsc05163\" src=\"https://renman.typepad.com/msc/images/dsc05163.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> Carol and I just recently returned from a whirlwind tour of Colorado. Neither one of us had seen Colorado before and so it was with much anticipation that we set out last Thursday to see as much of the state as we could in five days. We started our tour by spending the first night in Colorado Springs. We arrived around 3 o'clock in the afternoon and immediately went to visit &quot;Garden of the Gods&quot;, a georgous park filled with beautiful rock formations situated near the base of Pike's Peak.<a onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc05184.JPG\"><img title=\"Dsc05184\" height=\"75\" alt=\"Dsc05184\" src=\"https://renman.typepad.com/msc/images/dsc05184.JPG\" width=\"100\" border=\"0\" style=\"FLOAT: right; MARGIN: 0px 0px 5px 5px\" /></a> What a wonderful way to start to our tour. The scenery each day was almost more than we could comprehend. Snow capped mountains often gave way to beautiful valleys flled with quaint little towns. What a contrast to the &quot;Garden&quot; Randy just described in the post he sent from Iraq. I'll post some more pictures in a few days and give a little more info on our trip. It was just the kind of trip I love to take filled with lots of new things to see. The Lord has made a beautiful world indeed!</p>\n\n<p>Blessings,</p>\n\n<p>Ray&nbsp; </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fri, 24 Mar 2006 11:32:58 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Greetings from the Garden"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/greetings_from_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/greetings_from_.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Dear Morning Star Family, I am closing in on six weeks \"in country\" or \"in the sandbox\" as it is commonly referred to here. I have the day off today and was relaxing in bed reading this morning when I..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><span style=\"font-size: 0.8em;\"><p><a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/basrah_003_1.jpg\"><img title=\"Basrah_003_1\" height=\"75\" alt=\"Basrah_003_1\" src=\"https://renman.typepad.com/msc/images/basrah_003_1.jpg\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> Dear Morning Star Family,</p>\n\n<p>I am closing in on six weeks &quot;in country&quot; or &quot;in the sandbox&quot; as it is commonly referred to here. I have the day off today and was relaxing in bed reading this morning when I was distracted by some chatter on the radio. I then realized that I had unconsciously blocked out the sounds coming from just over the wall (about 100 yards away). You see there is a Mosque over there with a loud speaker mounted above it. Beginning at 5:30 every morning the Imam begins his call to prayer. The chanting sometimes continues for hours at a time without a break (I have actually heard him coughing he becomes so loud). It is amazing at times that I realize that I don't even hear him anymore.</p>\n\n<p>So I just read this quote by Richard Wagner,&quot;I speculate that it's the Church's collective knowledge of experiences on earth-the terrible reality of sin and disobedience-that will enable believers to successfully live in heaven in a way that Adam and Eve failed to do in the Garden of Eden&quot;. </p>\n\n<p>The discussion on the radio was referring to gunfire near the Mosque. I then put down the book and realized that I had also blocked out some serious automatic gunfire. This is the second day that it has occurred in the same location. Gunfire is not uncommon here, but it is not usually this close to our compound. I just continued to ponder the words quoted above as I listened to the now rapid gunfire mixed with the non-stop prayers of the Imam.</p>\n\n<p>You know some say that the Garden of Eden was near where the Tigris and Euphrates rivers merge and I am approximately fifty miles south of that location. My how things here have changed!</p>\n\n<p>I then heard the guys on duty at the gate talking over the radio about getting the kids inside and realized they were concerned for their safety due to the gunfire (these are the little guys that had their picture taken with me a few weeks ago). Within minutes they were right back outside as the gun fire continued. Are they already anesthetized to the sounds of war? My mind wondered to a conversation I recently had with the very guy that was concerned for them. As we watched them playing among the garbage and filth in the streets, I had asked him if he ever considered why were they born here and not us??? </p>\n\n<p>Please pray for the children of Iraq.</p>\n\n<p>God Bless,</p>\n\n<p>Randy </p></span></p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fri, 24 Mar 2006 10:57:30 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 23 - Mar 19 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/istar_23_mar_19.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/istar_23_mar_19.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Kim Hornbeck - \"All for Jesus\" Download istar_23_mar_19_2006.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Kim Hornbeck - &quot;All for Jesus&quot;</p>\n\n<p><a href=\"http://renman.typepad.com/msc/files/istar_23_mar_19_2006.MP3\">Download istar_23_mar_19_2006.MP3</a> </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tue, 21 Mar 2006 02:03:28 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 22 - Mar 12 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/istar_22_mar_12.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/istar_22_mar_12.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Chuck Evans - \"Faith\" Download istar_22_mar_12_2006.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Chuck Evans - &quot;Faith&quot;</p>\n\n<p> <a href=\"http://renman.typepad.com/msc/files/istar_22_mar_12_2006.MP3\">Download istar_22_mar_12_2006.MP3</a> </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tue, 21 Mar 2006 01:54:04 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 21 - Mar 05 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/istar_21_mar_05.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/03/istar_21_mar_05.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Phil Snyder of GLOW Ministries speaks of his recent kidnapping in Haiti Download istar_21_mar_05_2006.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Phil Snyder of GLOW Ministries speaks of his recent kidnapping in Haiti<br /><a href=\"http://renman.typepad.com/msc/files/istar_21_mar_05_2006.MP3\">Download istar_21_mar_05_2006.MP3</a>\n</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Thu, 09 Mar 2006 11:53:45 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 20 - February 26, 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_20_februa.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_20_februa.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Bill Roberts - \"An Adaptable Theology\" Download istar_20_feb_26_2006.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Bill Roberts - &quot;An Adaptable Theology&quot;<br /><a href=\"http://renman.typepad.com/msc/files/istar_20_feb_26_2006.MP3\">Download istar_20_feb_26_2006.MP3</a>\n</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tue, 28 Feb 2006 23:46:21 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 19 - February 19, 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_19_februa.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_19_februa.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Eli Renner - \"The DaVinci Code as an Evangelistic Tool\" Download istar_19_feb_19_2006.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Eli Renner - &quot;The DaVinci Code as an Evangelistic Tool&quot;<br /><a href=\"http://renman.typepad.com/msc/files/istar_19_feb_19_2006.MP3\">Download istar_19_feb_19_2006.MP3</a> </p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Tue, 28 Feb 2006 20:07:02 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title"
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/_dear_morning_s.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/_dear_morning_s.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Dear Morning Star Family, Greetings from sunny Basrah,Iraq. It's in the mid eighty's and I'm surrounded by sand and palm trees. If I could only find the beach! I'm settling into a routine and working some regular hours now. I'm..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><span style=\"font-size: 0.8em;\"><p><a onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/basrah_003.jpg\"><img title=\"Basrah_003\" height=\"75\" alt=\"Basrah_003\" src=\"https://renman.typepad.com/msc/images/basrah_003.jpg\" width=\"100\" border=\"0\" style=\"FLOAT: left; MARGIN: 0px 5px 5px 0px\" /></a> Dear Morning Star Family,</p>\n\n<p>Greetings from sunny Basrah,Iraq. It's in the mid eighty's and I'm surrounded by sand and palm trees. If I could only find the beach! </p>\n\n<p>I'm settling into a routine and working some regular hours now. I'm not allowed to mention what I am doing because of security reasons, but I'm sure most of you are aware of what I came here to do. When not working, I'm doing a lot of training with my partner. </p>\n\n<p>I am at a very secure compound. A mini green zone.</p>\n\n<p>There is very little travel outside due to the recent problems in the city. </p>\n\n<p>There is not much to do here, but we do have cable T.V. and internet access in our rooms(I watched the I.U./ Michigan State game last night).</p>\n\n<p>The food is pretty good and we have four flavors of Baskin Robbins ice cream to choose from every supper meal. I have only indulged one time.</p>\n\n<p>Well, that pretty much brings you up to date with me.</p>\n\n<p>I would enjoy hearing from you (Ray has my e-mail address). </p>\n\n<p>Thanks for your prayers and blessings to all.</p>\n\n<p>Randy</p>\n\n<p> </p></span></p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Mon, 27 Feb 2006 13:42:30 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "The Da Vinci Dialogue"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/the_da_vinci_di.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/the_da_vinci_di.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "What timing! Sony Pictures, the studio putting out The Da Vinci Code this May has created a very interesting web site called The Da Vinci Dialogue. It's an attempt by them to engage the Christian community in dicussions about the..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>What timing!&nbsp; Sony Pictures, the studio putting out The Da Vinci Code this May has created a very interesting web site called <a href=\"http://www.thedavincichallenge.com/\">The Da Vinci Dialogue</a>.&nbsp; It's an attempt by them to engage the Christian community in dicussions about the film in advance, in order to lessen the effect of anti-DVC activism by the church.</p>\n\n<p>They have recruited some heavy hitters to get the discussion rolling, including George Barna, Chuck Colson, Tony Campolo, Frederica Matthewes-Green, and Gloria Gaither.&nbsp; Have a look.</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Eli"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Thu, 23 Feb 2006 19:45:48 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 18 - February 5, 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_18_februa.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_18_februa.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Bob Preston - Isaiah 6 & Brazil Download istar_18_feb_05_2006.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>Bob Preston - Isaiah 6 &amp; Brazil<br /><a href=\"http://renman.typepad.com/msc/files/istar_18_feb_05_2006.MP3\">Download istar_18_feb_05_2006.MP3</a>\n</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sat, 18 Feb 2006 01:07:43 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "A Note From Randy"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/a_note_from_ran.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/a_note_from_ran.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Hey Ray, I stayed the first night in Amman, Jordan at the Days Inn. If you recall, in November there were three or four attacks on hotels in Amman (one involving a wedding party). The Days Inn was one of..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><span style=\"font-size: 0.8em;\"><p>Hey Ray,</p>\n\n<p>I stayed the first night in Amman, Jordan at the Days Inn. If you recall, in November there were three or four attacks on hotels in Amman (one involving a wedding party). The Days Inn was one of the hotels hit. When we left the airport with our Jordanian (company) driver he told us (there were three of us) that the two other guys were staying at the Meridian Hotel and I would be at the Days Inn since I was the only one travelling with a dog. After he dropped the other two off, I asked the driver how many Days Inns were in Amman and he said only one. I was remembering that it was one of the hotels that was hit. I spoke with the desk clerk and he was actually standing in the same location when the blast occurred. Fortunately it only did some cosmetic damage and blew out all of the windows.</p>\n\n<p>The second flight I was able to take Dan (the dog) in coach with me. All were boarded and the Captain announced that he needed to see the owner of the dog. I was advised that the luggage door was too small for the kennel and it had to be disassembled. So I exited to the side of the plane and leashed Danny and went back on board. Almost all of the Iraqi and Jordanian passengers jumped up and moved away from the aisle as we passed by.</p>\n\n<p>After arriving at our destination, we were housed near the airport for two days before being transported to our &quot;permanent&quot; location. The accomodations here are not bad. I stay in a trailer that has two bedrooms at each end and a bath in the middle that I share with the guy at the other end. I know him from the school in Virginia that I attended. There are also three others here that I knew from the same school. That makes the adjustment much easier for me as they have been here three months and have given me alot of tips about what to expect. I have internet access in my room as well as cable T.V.</p>\n\n<p>The food is actually pretty good too. We are still going through orientation and it will be a few more days before I am actually doing what I came to do. That pretty much brings you up to date (in a vague sort of way). Give my love to all at Morning Star and thank them for their prayers (for me). I have sensed great peace from God and am convinced His grace is sufficient for the task ahead.</p>\n\n<p>God bless,</p>\n\n<p>Randy </p></span></p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Fri, 17 Feb 2006 15:19:03 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "No More Shoveling Snow Forever!"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/no_more_shoveli.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/no_more_shoveli.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "I returned home yesterday around noon from the Heart Hospital in Indy. As most of you know by now, Carol drove me St. John’s hospital at about 3:30 Sunday morning. I had been experiencing chest pains for several hours which..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"><span style=\"font-size: 10pt; font-family: Arial;\"><a href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/dsc00222_2.JPG\" onclick=\"window.open(this.href, '_blank', 'width=800,height=600,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\"><img width=\"100\" height=\"75\" border=\"0\" src=\"https://renman.typepad.com/msc/images/dsc00222_2.JPG\" alt=\"Dsc00222_2\" title=\"Dsc00222_2\" style=\"margin: 0px 5px 5px 0px; float: left;\" /></a> I returned home yesterday around noon from the Heart Hospital in Indy. As most of you know by now, Carol drove me St. John’s hospital at about 3:30 Sunday morning. I had been experiencing chest pains for several hours which I initially thought was indigestion but later concluded may be something else. After initial tests (EKG, blood tests etc) were performed it was determined that I was experiencing heart problems and the decision was made to transport me to the Heart Hospital by Community North in Indy for a heart </span><em><span style=\"font-style: italic;\">catheterization</span></em><span style=\"font-size: 0.8em;\"><span style=\"font-size: 10pt; font-family: Arial;\"> procedure. This procedure is also known as <a href=\"http://www.webmd.com/content/tools/1/slide_angioplasty.htm\">balloon angioplasty</a>. </span></span></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><span style=\"font-size: 10pt; font-family: Arial;\">During the procedure the doctor determined that I had 2 blockages in one of my coronary arteries. One of them was a 100% blockage. They used the balloon to open the artery and then inserted 2 medicated stints to keep it open. The amazing thing to me was that I was awake and talking to the doctor during the entire procedure, and I was feeling no pain as there are no nerve endings inside the arteries. </span></span><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"><span style=\"font-size: 10pt; font-family: Arial;\">My long term prognosis is good. The doctors did say I had a heart attack, From my perspective, I knew I was having pain in my chest though I wouldn’t have said I was having a heart attack (denial is a more than a river in Egypt). I didn’t feel like I was on the verge of dying at any time during this process because the Lord gave me His peace in a remarkable way. While there was damage to the heart muscle the doctor said he felt it was minimal and he felt I would make a good recovery over the next few months. His advice is to take it easy, don’t drive for a week, get in a cardiac rehab program, take daily walks and <strong><u><span style=\"font-weight: bold;\">don’t shovel snow ever again (hallelujah!).</span></u></strong> </span></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"><span style=\"font-size: 10pt; font-family: Arial;\">I want to thank you all for your prayers and acts of kindness for Carol and me. They are greatly appreciated and I know the Lord has heard them. Please continue to pray that my rehab goes well and that I will listen and heed the doctors advice instead of just charging back into things as if nothing has happened (this is my tendency).</span></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"><span style=\"font-size: 10pt; font-family: Arial;\">Blessings to you all,</span></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p class=\"MsoNormal\"><span style=\"font-size: 0.8em;\"><p class=\"MsoNormal\"><span style=\"font-size: 10pt; font-family: Arial;\">Ray</span></p>\n\n<p></p></span></p>\n\n<p></p>\n\n<p></p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Current Affairs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "AncilRay"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Thu, 16 Feb 2006 13:28:49 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Ray Renner update"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/ray_renner_upda.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/ray_renner_upda.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "12:00 PM Wednesday. Thanks for all the prayers. Ray was released from the hospital today. He is home resting, catching up on email and the like. Feel free to drop him a line or give him a call. He's not..."
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p><a onclick=\"window.open(this.href, '_blank', 'width=200,height=150,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false\" href=\"http://renman.typepad.com/.shared/image.html?/photos/uncategorized/raynsam_small.JPG\"><img width=\"100\" height=\"75\" border=\"0\" src=\"https://renman.typepad.com/msc/images/raynsam_small.JPG\" title=\"Raynsam_small\" alt=\"Raynsam_small\" style=\"margin: 0px 5px 5px 0px; float: left;\" /></a><strong>12:00 PM Wednesday.&nbsp; </strong>Thanks for all the prayers.&nbsp; Ray was released from the hospital today.&nbsp; He is home resting, catching up on email and the like. Feel free to drop him a line or give him a call.&nbsp; He's not allowed to drive for a week, so he will surely feel a little trapped.&nbsp; Maybe he'll post here soon.</p>\n\n<p><strong></strong></p>\n\n<p><strong>10:00 AM Monday</strong>&nbsp; Met with discharge coordinator, Jan.&nbsp; She explained in detail what the doctor did during yesterday's procedure.&nbsp; She informed that two stints were put in. &quot;The stints will not set off any alarms.&quot;&nbsp; &quot;We can't take away your stress, but we can teach you how to deal with it&quot; (walking, bike riding, swimming, talking about things, watching funny movies). Rest for an hour after every meal.&nbsp; Don't change bed linens and run a vaccum cleaner.&nbsp; Don't drive for a week.&nbsp; No muscle building exercises.&nbsp; Never, ever shovel snow! Talk to people about how you feel. Give yourself a chance to heal. Walk 3 minutes, 3 times a day, building to two 15 minute walks a day.</p>\n\n\n\n<p><strong>7:00 AM Monday&nbsp; </strong>Many of you know by now, Ray suffered what the doctors have called a &quot;mild to moderate&quot; heart attack on Saturday night.&nbsp; His pain began around 8 PM, but he did not decide to go to the hospital until around 3 AM Sunday morning.&nbsp; He and Carol drove to St. John's hospital in Anderson, where he was stabilized.&nbsp; From there, he was transported to The Indiana Heart Hospital in Castleton (a part of the Community North campus).&nbsp; Upon arrival at TIHH, he was immediately taken in for a heart catheterization procedure.&nbsp; The doctors discovered that one of his primary cardiac arteries was completely blocked.&nbsp; They were able to insert a drug-coated stint into the artery, and the blockage was alleviated.&nbsp; The doctor performing the procedure was pleased with the results, but he said it would take time before they knew the extent of damage to the heart muscle.&nbsp; The doctor also expressed some concern with Ray's kidney function, and has ordered some further tests to determine whether or not his diabetes is under adequate control.</p>\n\n<p>As of Sunday evening, Ray was awake, alert, and in good spirits.&nbsp; The doctors have estimated that he will need to be in the hospital for a total of three days for evaluation.&nbsp; Visitors are welcome pretty much any time of day, and the atmosphere at the hospital is very open and relaxed, so do feel free to visit.&nbsp; He is in room 310.&nbsp; He also has his cell phone with him, if you wish to call.</p>\n\n<p>Please pray for Ray and Carol.&nbsp; Further updates on Ray's progress will be posted to this web site, so feel free to send the link out to folks who might be interested.</p>\n\n<p>-eli</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Current Affairs"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Eli"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Mon, 13 Feb 2006 07:34:32 -0500"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "type": "element",
+                            "name": "item",
+                            "elements": [
+                                {
+                                    "type": "element",
+                                    "name": "title",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "iStar 17 - January 29, 2006"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "link",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_17_januar.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "guid",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "https://renman.typepad.com/msc/2006/02/istar_17_januar.html"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "description",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "\"Prayer and Fasting\" - Kim Hornbeck Download prayer_and_fasting.MP3"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "content:encoded",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "<p>&quot;Prayer and Fasting&quot; - Kim Hornbeck<br /><a href=\"http://renman.typepad.com/msc/files/prayer_and_fasting.MP3\">Download prayer_and_fasting.MP3</a>\n</p>"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "category",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Podcasts"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "dc:creator",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "JazzmanU47"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "pubDate",
+                                    "elements": [
+                                        {
+                                            "type": "text",
+                                            "text": "Sun, 05 Feb 2006 15:46:53 -0500"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "type": "element",
+                                    "name": "enclosure"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "comment",
+            "comment": "ph=1"
+        }
+    ]
+}

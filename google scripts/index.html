@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <base target="_top" />
+        <!-- Fetch resources from remote cdn -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous" />
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/fontawesome.min.css" integrity="sha384-z4tVnCr80ZcL0iufVdGQSUzNvJsKjEtqYZjiQrrYKlpGow+btDHDfQWkFjoaz/Zr" crossorigin="anonymous" />
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+        <style>
+            .loading-area {
+                position: fixed;
+                width: 100%;
+                height: 100%;
+                background: #fff;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+        </style>
+    </head>
+    <body>
+        <!-- Loading area -->
+        <div class="loading-area" style="display: none;">
+            <div class="spinner-border text-primary" role="status">
+                <span class="visually-hidden">Loading...</span>
+            </div>
+        </div>
+        <!-- End of loading area -->
+
+        <!-- Main add new company form -->
+        <div class="container p-3">
+            <form class="form" id="form">
+                <div class="row">
+                    <!-- Enter name -->
+                    <div class="col-12">
+                        <div class="form-group mb-1">
+                            <label class="mb-1">
+                                Name
+                            </label>
+                            <input class="form-control" placeholder="*Make sure it's valid one" id="name" required />
+                        </div>
+                    </div>
+
+                    <!-- Enter Symbol -->
+                    <div class="col-12">
+                        <div class="form-group mb-1">
+                            <label class="mb-1">
+                                Symbol
+                            </label>
+                            <input class="form-control" placeholder="*Make sure it's valid one" id="symbol" required />
+                        </div>
+                    </div>
+
+                    <!-- Select Exchange market name or symbol -->
+                    <div class="col-12">
+                        <div class="form-group mb-1">
+                            <label class="mb-1">
+                                Exchange
+                            </label>
+                            <select id="market" class="form-control">
+                                <option value="ADX">ADX - Abu Dhabi Securities Exchange</option>
+                                <option value="AIM">AIM - AIM Stock Exchange</option>
+                                <option value="ASE-AMMAN">ASE-AMMAN - Amman Stock Exchange</option>
+                                <option value="ASE-ATHENS">ASE-ATHENS - Athens Stock Exchange</option>
+                                <option value="ASX">ASX - Australia Stock Exchange</option>
+                                <option value="BBV">BBV - Bolivian Stock Exchange</option>
+                                <option value="BC">BC - Casablanca Stock Exchange</option>
+                                <option value="BCBA">BCBA - Argentinian Stock Exchange</option>
+                                <option value="BCSE">BCSE - Belarusian Currency and Stock Exchange</option>
+                                <option value="BDE-BARBADOS">BDE-BARBADOS - Barbados Stock Exchange</option>
+                                <option value="BELEX">BELEX - Belgrade Stock Exchange</option>
+                                <option value="BHB">BHB - Bahrain Stock Exchange</option>
+                                <option value="BIST">BIST - Istanbul Stock Exchange</option>
+                                <option value="BLSE">BLSE - Banja Luka Stock Exchange</option>
+                                <option value="BME">BME - Madrid Stock Exchange</option>
+                                <option value="BMV">BMV - Mexican Stock Exchange</option>
+                                <option value="BNV">BNV - Costa Rican Stock Exchange</option>
+                                <option value="BOVESPA">BOVESPA - Brazil Stock Exchange</option>
+                                <option value="BRVM">BRVM - Regional Securities Exchange SA</option>
+                                <option value="BSE-BEIRUT">BSE-BEIRUT - Beirut Stock Exchange</option>
+                                <option value="BSE-BOMBAY">BSE-BOMBAY - Bombay Stock Exchange</option>
+                                <option value="BSE-BOTSWANA">BSE-BOTSWANA - Botswana Stock Exchange</option>
+                                <option value="BSE-BUDAPEST">BSE-BUDAPEST - Budapest Stock Exchange</option>
+                                <option value="BSE-BULGARIA">BSE-BULGARIA - Bulgarian Stock Exchange</option>
+                                <option value="BSSE">BSSE - Bratislava Stock Exchange</option>
+                                <option value="BSX">BSX - Bermuda Stock Exchange</option>
+                                <option value="BVB">BVB - Bucharest Stock Exchange</option>
+                                <option value="BVC">BVC - Colombia Stock Exchange</option>
+                                <option value="BVCC">BVCC - Caracas Stock Exchange</option>
+                                <option value="BVG">BVG - Guayaquil Stock Exchange</option>
+                                <option value="BVL">BVL - Lima Stock Exchange</option>
+                                <option value="BVPA">BVPA - Panama Stock Exchange</option>
+                                <option value="BVS">BVS - Santiago Stock Exchange</option>
+                                <option value="BX">BX - BX Swiss</option>
+                                <option value="CDE">CDE - Bourse de Montréal Options</option>
+                                <option value="CNSX">CNSX - Canadian National Stock Exchange</option>
+                                <option value="CSE">CSE - Chittagong Stock Exchange</option>
+                                <option value="CSE-COLOMBO">CSE-COLOMBO - Colombo Stock Exchange</option>
+                                <option value="CSX">CSX - Cayman Islands Stock Exchange</option>
+                                <option value="DFM">DFM - Dubai Financial Market</option>
+                                <option value="DSE">DSE - Dhaka Stock Exchange</option>
+                                <option value="EGX">EGX - Egyptian Exchange</option>
+                                <option value="EUREX">EUREX - Eurex Germany</option>
+                                <option value="EURONEXT">EURONEXT - Euronext Amsterdam Stock Exchange</option>
+                                <option value="EURONEXT-BRUSSELS">EURONEXT-BRUSSELS - Euronext Brussels</option>
+                                <option value="EURONEXT-LISBON">EURONEXT-LISBON - Euronext Lisbon</option>
+                                <option value="EURONEXT-PARIS">EURONEXT-PARIS - Euronext Paris Exchange</option>
+                                <option value="FSX">FSX - Frankfurt Stock Exchange</option>
+                                <option value="GPW">GPW - Warsaw Stock Exchange</option>
+                                <option value="GSE">GSE - Ghana Stock Exchange</option>
+                                <option value="HKEX">HKEX - Hong Kong Stock Exchange</option>
+                                <option value="HNX">HNX - Hanoi Stock Exchange</option>
+                                <option value="HOSE">HOSE - Ho Chi Minh Stock Exchange</option>
+                                <option value="IDX">IDX - Indonesia Stock Exchange</option>
+                                <option value="IEX">IEX - Investors Exchange</option>
+                                <option value="IFB">IFB - Iran Fara Bourse</option>
+                                <option value="ISE">ISE - Irish Stock Exchange</option>
+                                <option value="JPX">JPX - Tokyo Stock Exchange</option>
+                                <option value="JSE">JSE - Johannesburg Stock Exchange</option>
+                                <option value="JSE-JAMAICA">JSE-JAMAICA - Jamaica Stock Exchange</option>
+                                <option value="KASE">KASE - Kazakhstan Stock Exchange</option>
+                                <option value="KOSDAQ">KOSDAQ - Korea Exchange (KOSDAQ)</option>
+                                <option value="KRX">KRX - South Korea Stock Exchange</option>
+                                <option value="LME">LME - London Metal Exchange</option>
+                                <option value="LSE">LSE - London Stock Exchange</option>
+                                <option value="LUXSE">LUXSE - Luxembourg Stock Exchange</option>
+                                <option value="MNSE">MNSE - Montenegro Stock Exchange</option>
+                                <option value="MOEX">MOEX - Moscow Exchange</option>
+                                <option value="MSE">MSE - Malta Stock Exchange</option>
+                                <option value="MSM">MSM - Muscat Securities Market</option>
+                                <option value="MTA">MTA - Italian Stock Exchange</option>
+                                <option value="MYX">MYX - Malaysia Stock Exchange</option>
+                                <option value="NASDAQ">NASDAQ - NASDAQ Stock Exchange</option>
+                                <option value="NDXB">NDXB - NASDAQ Dubai</option>
+                                <option value="NEO">NEO - NEO Exchange</option>
+                                <option value="NEX">NEX - Aquis Stock Exchange</option>
+                                <option value="NILX">NILX - Nile Stock Exchange</option>
+                                <option value="NSE-INDIA">NSE-INDIA - India National Stock Exchange</option>
+                                <option value="NSE-NAIROBI">NSE-NAIROBI - Nairobi Securities Exchange</option>
+                                <option value="NSE-NIGERIA">NSE-NIGERIA - Nigerian Stock Exchange</option>
+                                <option value="NSX">NSX - Namibian Stock Exchange</option>
+                                <option value="NSXA">NSXA - National Stock Exchange of Australia</option>
+                                <option value="NYSE">NYSE - New York Stock Exchange</option>
+                                <option value="NZX">NZX - New Zealand Stock Exchange</option>
+                                <option value="OMX">OMX - Stockholm Stock Exchange</option>
+                                <option value="OMXC-COPENHAGEN">OMXC-COPENHAGEN - Copenhagen Stock Exchange</option>
+                                <option value="OMXH-HELSINKI">OMXH-HELSINKI - Helsinki Stock Exchange</option>
+                                <option value="OMXR-RIGA">OMXR-RIGA - Riga Stock Exchange</option>
+                                <option value="OMXT-TALLINN">OMXT-TALLINN - Tallinn Stock Exchange</option>
+                                <option value="OMXV-VILNIUS">OMXV-VILNIUS - Nasdaq Vilnius Stock Exchange</option>
+                                <option value="OSE">OSE - Oslo Stock Exchange</option>
+                                <option value="OTC">OTC - OTC Markets U.S.</option>
+                                <option value="PEX">PEX - Palestine Securities Exchange</option>
+                                <option value="PFTS">PFTS - PFTS Stock Exchange</option>
+                                <option value="PSE">PSE - Philippine Stock Exchange</option>
+                                <option value="PSX">PSX - Pakistan Stock Exchange</option>
+                                <option value="QE">QE - Qatar Stock Exchange</option>
+                                <option value="RSE">RSE - Rwanda Stock Exchange</option>
+                                <option value="SASE">SASE - Sarajevo Stock Exchange</option>
+                                <option value="SEM">SEM - Stock Exchange of Mauritius</option>
+                                <option value="SET">SET - Stock Exchange of Thailand</option>
+                                <option value="SGX">SGX - Singapore Exchange</option>
+                                <option value="SIX">SIX - Swiss Stock Exchange</option>
+                                <option value="SSE">SSE - Shanghai Stock Exchange</option>
+                                <option value="SSX">SSX - Sydney Stock Exchange</option>
+                                <option value="SZSE">SZSE - Shenzhen Stock Exchange</option>
+                                <option value="TADAWUL">TADAWUL - Saudi Stock Exchange</option>
+                                <option value="TASE">TASE - Tel-Aviv Stock Exchange</option>
+                                <option value="TFEX">TFEX - Thailand Futures Exchange</option>
+                                <option value="TISE">TISE - The International Stock Exchange</option>
+                                <option value="TPEX">TPEX - Taipei Exchange</option>
+                                <option value="TSE">TSE - Tehran Stock Exchange</option>
+                                <option value="TSX">TSX - Toronto Stock Exchange</option>
+                                <option value="TWSE">TWSE - Taiwan Stock Exchange</option>
+                                <option value="UX">UX - Ukrainian Exchange</option>
+                                <option value="VSE">VSE - Vienna Stock Exchange</option>
+                                <option value="XBER">XBER - Börse Berlin Stock Exchange</option>
+                                <option value="XDSE">XDSE - Dar es Salaam Stock Exchange</option>
+                                <option value="XDUS">XDUS - Düsseldorf Stock Exchange</option>
+                                <option value="XETR">XETR - Deutsche Börse Xetra</option>
+                                <option value="XFKA">XFKA - Fukuoka Stock Exchange</option>
+                                <option value="XHAM">XHAM - Hamburg Stock Exchange</option>
+                                <option value="XHAN">XHAN - Hannover Stock Exchange</option>
+                                <option value="XICE">XICE - Iceland Stock Exchange</option>
+                                <option value="XKUW">XKUW - Kuwait Stock Exchange</option>
+                                <option value="XLJU">XLJU - Ljubljana Stock Exchange</option>
+                                <option value="XMAE">XMAE - Macedonian Stock Exchange</option>
+                                <option value="XMUN">XMUN - Munich Stock Exchange</option>
+                                <option value="XNGM">XNGM - Nordic Growth Market</option>
+                                <option value="XNGO">XNGO - Nagoya Stock Exchange</option>
+                                <option value="XPRA">XPRA - Prague Stock Exchange</option>
+                                <option value="XSAP">XSAP - Sapporo Securities Exchange</option>
+                                <option value="XSAT">XSAT - Spotlight Stock Market</option>
+                                <option value="XSTU">XSTU - Stuttgart Stock Exchange</option>
+                                <option value="XTSX">XTSX - TSX Venture Exchange</option>
+                                <option value="XULA">XULA - Mongolian Stock Exchange</option>
+                                <option value="XZSE">XZSE - Zimbabwe Stock Exchange</option>
+                                <option value="ZSE">ZSE - Zagreb Stock Exchagne</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Select year -->
+                    <div class="col-12">
+                        <div class="form-group mb-1">
+                            <label class="mb-1">
+                                Year
+                            </label>
+                            <select id="year" class="form-control">
+                                <option value="2021">2021</option>
+                                <option value="2020">2020</option>
+                                <option value="2019">2019</option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Select primary source -->
+                    <div class="col-12">
+                        <div class="form-group mb-3">
+                            <label class="mb-1">
+                                Primary source
+                            </label>
+                            <select class="form-control" id="primarySource" required>
+                                <option value="yahoo">
+                                    Yahoo
+                                </option>
+                                <option value="reuters">
+                                    Reuters
+                                </option>
+                                <option value="wsj">
+                                    The Wall Street Journal
+                                </option>
+                                <option value="google" disabled>
+                                    Google
+                                </option>
+                            </select>
+                        </div>
+                    </div>
+
+                    <!-- Add new company button -->
+                    <div class="col-12">
+                        <div class="form-group mb-1">
+                            <button type="submit" class="btn btn-success w-100">
+                                Add new company
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+
+        <script>
+            //handle click on sumbit event
+            document.querySelector("#form").addEventListener("submit", addNewCompany);
+            function addNewCompany(e) {
+                e.preventDefault();
+                //format form data
+                let data = {};
+                data.name = document.querySelector("#name").value;
+                data.symbol = document.querySelector("#symbol").value;
+                data.market = document.querySelector("#market").value;
+                data.year = document.querySelector("#year").value;
+                data.primarySource = document.querySelector("#primarySource").value;
+                document.querySelector(".loading-area").style.display = "flex";
+                //execute google script and wait for event
+                google.script.run
+                    .withSuccessHandler(function (data, element) {
+                        console.log("data ----------", element);
+                        document.querySelector(".loading-area").style.display = "none";
+                        alert("Company sheet created successfully");
+                    })
+                    .withFailureHandler(function (msg, element) {
+                        document.querySelector(".loading-area").style.display = "none";
+                        alert("Something went wrong, try again or check server logs");
+                    })
+                    .createNewCompanySheet(data);
+            }
+        </script>
+    </body>
+</html>

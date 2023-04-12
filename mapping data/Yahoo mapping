@@ -1,0 +1,25 @@
+Yahoo
+
+[Balance Sheet]
+[N , D37] Cash and cash equivalents 
+[J , D33] Common stock equity
+[K , D34] Total debt
+[B , D25] Ordinary shares number
+
+[Income statement]
+[L , D35] Basic EPS [Current year]
+[P , D39] Diluted EPS
+[R , D41] Basic average share
+[M , D36] Normalized EBITDA
+[Q , D40] Basic EPS [Previous year]
+
+[Cash flow]
+[O , D38] Operating cash flow
+[E , D28] Purchase of PPE
+[D , D27] Cash Dividends paid
+[I , D32] Income tax paid supllemental data
+[H , D31] Interest paid supplemental data
+
+[C , D26] average close
+[S , D42] Beta
+
